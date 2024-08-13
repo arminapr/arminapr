@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Armina
 
-### 🚀 Full Stack Engineer | Data Scientist | AI Enthusiast
+### 🚀 Software Engineer | AI Enthusiast
 
 I’m a third-year computer science student with a concentration in AI at Northeastern University. My experience spans software engineering, full-stack development, database management, machine learning, and data science, and I love building innovative solutions to complex problems.
 
