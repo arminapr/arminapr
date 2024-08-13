@@ -2,7 +2,7 @@
 
 ### 🚀 Full Stack Engineer | Data Scientist | AI Enthusiast
 
-Welcome to my GitHub! I’m a rising junior computer science student with a concentration in AI at Northeastern University. My experience spans software engineering, full-stack development, database management, machine learning, and data science, and I love building innovative solutions to complex problems.
+I’m a third-year computer science student with a concentration in AI at Northeastern University. My experience spans software engineering, full-stack development, database management, machine learning, and data science, and I love building innovative solutions to complex problems.
 
 ### 🛠️ What I Do
 
