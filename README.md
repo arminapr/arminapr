@@ -3,5 +3,4 @@
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/arminapr)
 - All of my projects are available at [https://www.arminapr.com](https://www.arminapr.com)
-- Reach me at **parvareshrizi.a@northeastern.edu**
-- [Resume](https://drive.google.com/file/d/1zVQ0WP9T1J5iJAY5klh1wbp9YCy1SL7V/view?usp=sharing)
+- Reach me at **armina.parvareshrizi@gmail.com**
